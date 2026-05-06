@@ -120,6 +120,6 @@ Here are some ideas to get you started:
 
 *"Automate everything, monitor everything, break nothing in production."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00B4D8&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?user=abirthapa1&color=00B4D8&style=flat-square)
 
 </div>
