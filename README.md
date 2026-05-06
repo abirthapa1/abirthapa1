@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;SRE+%7C+Infrastructure+%7C+Automation;Terraform+%E2%80%A2+Kubernetes+%E2%80%A2+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+%5BAbir+Thapa%5D+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;SRE+%7C+Infrastructure+%7C+Automation;Terraform+%E2%80%A2+Kubernetes+%E2%80%A2+AWS" alt="Typing SVG" />
 
 <br/>
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-> Cloud & DevOps engineer with a focus on **infrastructure automation**, **platform reliability**, and **scalable systems design**. I'm passionate about building resilient cloud environments and bridging the gap between development and operations.
+> Cloud & DevOps engineer with a focus on **infrastructure automation**, **platform reliability**, and **scalable systems design**. I'm currently learning and passionate about building resilient cloud environments and bridging the gap between development and operations.
 
 - 🔭 Currently working on cloud infrastructure automation with **Terraform** & **Kubernetes**
 - 🌱 Exploring **SRE practices**, **observability stacks**, and **cloud-native architecture**
