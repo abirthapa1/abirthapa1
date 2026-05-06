@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=abirthapa1&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abirthapa1)](https://git.io/streak-stats)
 
 </div>
 
