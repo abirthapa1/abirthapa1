@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-> Cloud & DevOps engineer with a focus on **infrastructure automation**, **platform reliability**, and **scalable systems design**. I'm currently learning and passionate about building resilient cloud environments and bridging the gap between development and operations.
+> Cloud & DevOps engineer and cybersecurity analyst with a focus on **infrastructure automation**, **platform reliability**, **cloud security**, and **scalable systems design**. I'm currently learning and passionate about building resilient, secure cloud environments and bridging the gap between development, operations, and security.
 
 - 🔭 Currently working on cloud infrastructure automation with **Terraform** & **Kubernetes**
 - 🌱 Exploring **SRE practices**, **observability stacks**, and **cloud-native architecture**
